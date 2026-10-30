@@ -28,3 +28,9 @@ body {
     border: 2px solid #000
 }
 
+@media (min-width: 768px) and (max-width: 1032px) {
+    .caja_morada {
+        background-color: #0098a3;
+    }
+}
+
